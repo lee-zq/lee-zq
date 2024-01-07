@@ -5,15 +5,12 @@
 ### 🔭 Career
 - 1, in 2014.
 - 2, in 2018.
-- 3, in 2018.
-- 4, in 2021. 
+- 3, in 2021. 
 
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
-    - Classification
     - Object Detection
     - Semantic Segmentation
-    - Labeling Noise Detection
 - **Image Processing using Deep Learning**
     - Super Resolution
     - Style Transfer
@@ -22,13 +19,6 @@
 - [Personal Blog](https://lee-zq.github.io)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lee-zq&show_icons=true" alt="lee-zq" /></p>
-
-
-### 📫 How to reach me
-- linkedin: https://www
-- facebook: https://www
-- email: ???
-
 
 <!--
 **lee-zq/lee-zq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
