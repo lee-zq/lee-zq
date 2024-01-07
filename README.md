@@ -1,12 +1,12 @@
-### Lee-zq [@Lee-zq](https://github.com/lee-zq)
+###  [Lee-zq](https://github.com/lee-zq)
 
-<p align="left"> <img src="https://github.com/lee-zq" alt="lee-zq" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/xindoo/xindoo/output/github-contribution-grid-snake.svg" alt="lee-zq" /> </p>
 
 ### 🔭 Career
-- Received the B.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2016.
-- Received the M.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2018.
-- Joined the SUALAB. ,Seoul, Korea, as a **Deep Learning Research Engineer**, in 2018.
-- SUALAB was acquired by Cognex in 2019.10. So, I am currently working at Cognex. 
+- 1, in 2014.
+- 2, in 2018.
+- 3, in 2018.
+- 4, in 2021. 
 
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
@@ -14,18 +14,9 @@
     - Object Detection
     - Semantic Segmentation
     - Labeling Noise Detection
-- **Anomaly Detection**
-    - Out-of-distritubion Detection
-    - Defect Generation
 - **Image Processing using Deep Learning**
     - Super Resolution
     - Style Transfer
-    - Image Denoising
-    - Image Matching
-- **Learning Theory**
-    - Weakly-Supervised Learning
-    - Semi-Supervised Learning
-    - Self-Supervised Learning
 
 ### 👯 Side Jobs & Hobby
 - [Personal Blog](https://lee-zq.github.io)
